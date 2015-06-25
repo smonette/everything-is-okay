@@ -7,6 +7,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 ### Vines
 * [Birdyonce](https://vine.co/v/eiPzmHEEUHm)
 * [You Got This, Travis](https://vine.co/v/O6gHdtYPqij)
+* [Yass! Cat](https://vine.co/v/OzQaIO0IOiu)
 
 ### Long Videos
 * [Bouncy Ball](https://vimeo.com/14504562)
