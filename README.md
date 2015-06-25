@@ -19,3 +19,10 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [He Man Say Hey](https://www.youtube.com/watch?v=iWw5YdW57Es&index=47&list=FLi39viOfDpJwXhARIFUkuug)
 * [MAMESHIBA](https://www.youtube.com/watch?v=wjsZbnTNB8c)
 * [SPAM!](https://www.youtube.com/watch?v=4owMJAHqpHY)
+
+### Gifs
+* [Pomeranian Puppy Profanity] (http://i.imgur.com/OV65Vo5.gif)
+* [Shiba Puppies Ruining Cabbage] (http://s3-ec.buzzfed.com/static/2014-06/19/17/enhanced/webdr02/anigif_enhanced-22021-1403212682-15.gif)
+* [NEPTR Why Creator?] (http://media.tumblr.com/tumblr_m8h44tYXlG1qba9rro1_500.gif)
+* [Space Cat] (http://2.bp.blogspot.com/-Aa-MvSjZ-TM/UgYsX-k3LtI/AAAAAAAABOY/Yu_FGdmTbpo/s1600/cat-meme-space-cat-wow-cat-amazing-stars-galaxy-cat_thumb.gif)
+
