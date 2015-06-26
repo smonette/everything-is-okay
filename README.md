@@ -29,4 +29,8 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Shiba Puppies Ruining Cabbage] (http://s3-ec.buzzfed.com/static/2014-06/19/17/enhanced/webdr02/anigif_enhanced-22021-1403212682-15.gif)
 * [NEPTR Why Creator?] (http://media.tumblr.com/tumblr_m8h44tYXlG1qba9rro1_500.gif)
 * [Space Cat] (http://2.bp.blogspot.com/-Aa-MvSjZ-TM/UgYsX-k3LtI/AAAAAAAABOY/Yu_FGdmTbpo/s1600/cat-meme-space-cat-wow-cat-amazing-stars-galaxy-cat_thumb.gif)
+* [Bone Tongue] (http://derp.northleft.co/wp-content/uploads/gifdrop/43.gif)
+* [I Can't Even Cat] (http://derp.northleft.co/wp-content/uploads/gifdrop/2v.gif)
+* [Zen Cat] (http://derp.northleft.co/wp-content/uploads/gifdrop/1i.gif)
+* [Baby Goats on Beds are the Best] (http://derp.northleft.co/wp-content/uploads/gifdrop/10.gif)
 
