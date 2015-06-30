@@ -18,7 +18,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 
 ### Perpetual Videos
 * [Otter Cam](http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/sea-otter-cam)
-* * [Alaska Bear Cam](http://explore.org/live-cams/player/river-watch-brown-bear-salmon-cams)
+* [Alaska Bear Cam](http://explore.org/live-cams/player/river-watch-brown-bear-salmon-cams)
 
 ### Short Videos
 * [Ham Cat](https://www.youtube.com/watch?v=79qqhX8Vxc0)
