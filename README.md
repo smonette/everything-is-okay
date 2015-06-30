@@ -15,6 +15,9 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Herding Cats](https://www.youtube.com/watch?v=vCB7RqGS684&index=34&list=FLi39viOfDpJwXhARIFUkuug)
 * [Stowaway Cat](https://youtu.be/J_8mdH20qTQ)
 
+### Perpetual Videos
+* [Otter Cam](http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/sea-otter-cam)
+
 ### Short Videos
 * [Ham Cat](https://www.youtube.com/watch?v=79qqhX8Vxc0)
 
@@ -33,4 +36,5 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [I Can't Even Cat] (http://derp.northleft.co/wp-content/uploads/gifdrop/2v.gif)
 * [Zen Cat] (http://derp.northleft.co/wp-content/uploads/gifdrop/1i.gif)
 * [Baby Goats on Beds are the Best] (http://derp.northleft.co/wp-content/uploads/gifdrop/10.gif)
-
+* [Otters](http://38.media.tumblr.com/7f098be163aeb030238098f2d1aa1bd4/tumblr_nlux6pHgNE1tlb56zo1_400.gif)
+* [OTTERS](http://minhonoo.tumblr.com/post/95848904029/river-otters-at-the-zoological-botanical-garden)
