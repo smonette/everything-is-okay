@@ -10,6 +10,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Yass! Cat](https://vine.co/v/OzQaIO0IOiu)
 * [Cat cleans dog](https://vine.co/v/OBVAqnMDe7I)
 * [(indescribable)](https://www.tumblr.com/video/strawberry-taffy/122569405641/500/)
+* [Cat ramping](https://vine.co/v/O2bqlMVvp0u)
 
 ### Long Videos
 * [Bouncy Ball](https://vimeo.com/14504562)
