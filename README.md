@@ -43,3 +43,4 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Baby Goats on Beds are the Best] (http://derp.northleft.co/wp-content/uploads/gifdrop/10.gif)
 * [Otters](http://38.media.tumblr.com/7f098be163aeb030238098f2d1aa1bd4/tumblr_nlux6pHgNE1tlb56zo1_400.gif)
 * [OTTERS](http://minhonoo.tumblr.com/post/95848904029/river-otters-at-the-zoological-botanical-garden)
+* [Sleepy Baby Otter](http://imgur.com/gallery/7XrkOhf)
