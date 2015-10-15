@@ -25,7 +25,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 
 ### Short Videos
 * [Ham Cat](https://www.youtube.com/watch?v=79qqhX8Vxc0)
-* [Otters are AMAZING!][http://www.businessinsider.com/otters-are-one-of-the-smartest-species-on-the-planet-2015-10]
+* [Otters are AMAZING!](http://www.businessinsider.com/otters-are-one-of-the-smartest-species-on-the-planet-2015-10)
 
 
 ### WTF
