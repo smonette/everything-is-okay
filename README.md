@@ -49,3 +49,5 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Sleepy Baby Otter](http://imgur.com/gallery/7XrkOhf)
 * [Avocado](https://33.media.tumblr.com/07b00df16a910359a331e158b79dfa72/tumblr_nvi6nw9PAE1s5wnpzo1_500.gif)
 * [Cat Sayz Take a Break](http://i.imgur.com/eagMT.gif)
+* [Talented Trash Panda](http://imgur.com/LdGASfu)
+* [Alternate Animal Names](http://imgur.com/gallery/xgAdk)
