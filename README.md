@@ -53,5 +53,5 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Talented Trash Panda](http://imgur.com/LdGASfu)
 
 ### Misc. Images
-* [Gandolf Pug Wallpaper] (http://imgur.com/ozjI2XF)
+* [Gandalf Pug Wallpaper] (http://imgur.com/ozjI2XF)
 * [Alternate Animal Names](http://imgur.com/gallery/xgAdk)
