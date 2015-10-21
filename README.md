@@ -18,6 +18,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Herding Cats](https://www.youtube.com/watch?v=vCB7RqGS684&index=34&list=FLi39viOfDpJwXhARIFUkuug)
 * [Stowaway Cat](https://youtu.be/J_8mdH20qTQ)
 * [Pee-wee football team forgets they're playing, dance](https://www.youtube.com/watch?v=o0S3TMWJZt0)
+* [Baby Koala!!](https://www.youtube.com/watch?time_continue=2&v=cU8v4vZbFPc)
 
 ### Perpetual Videos
 * [Otter Cam](http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/sea-otter-cam)
