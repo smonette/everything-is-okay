@@ -37,13 +37,13 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Jurassic Park Melodica](https://www.youtube.com/watch?v=-w-58hQ9dLk)
 
 ### Gifs
-* [Pomeranian Puppy Profanity] (http://i.imgur.com/OV65Vo5.gif)
-* [Shiba Puppies Ruining Cabbage] (http://s3-ec.buzzfed.com/static/2014-06/19/17/enhanced/webdr02/anigif_enhanced-22021-1403212682-15.gif)
-* [NEPTR Why Creator?] (http://media.tumblr.com/tumblr_m8h44tYXlG1qba9rro1_500.gif)
-* [Space Cat] (http://2.bp.blogspot.com/-Aa-MvSjZ-TM/UgYsX-k3LtI/AAAAAAAABOY/Yu_FGdmTbpo/s1600/cat-meme-space-cat-wow-cat-amazing-stars-galaxy-cat_thumb.gif)
-* [Bone Tongue] (http://derp.northleft.co/wp-content/uploads/gifdrop/43.gif)
-* [I Can't Even Cat] (http://derp.northleft.co/wp-content/uploads/gifdrop/2v.gif)
-* [Zen Cat] (http://derp.northleft.co/wp-content/uploads/gifdrop/1i.gif)
+* [Pomeranian Puppy Profanity](http://i.imgur.com/OV65Vo5.gif)
+* [Shiba Puppies Ruining Cabbage](http://s3-ec.buzzfed.com/static/2014-06/19/17/enhanced/webdr02/anigif_enhanced-22021-1403212682-15.gif)
+* [NEPTR Why Creator?](http://media.tumblr.com/tumblr_m8h44tYXlG1qba9rro1_500.gif)
+* [Space Cat](http://2.bp.blogspot.com/-Aa-MvSjZ-TM/UgYsX-k3LtI/AAAAAAAABOY/Yu_FGdmTbpo/s1600/cat-meme-space-cat-wow-cat-amazing-stars-galaxy-cat_thumb.gif)
+* [Bone Tongue](http://derp.northleft.co/wp-content/uploads/gifdrop/43.gif)
+* [I Can't Even Cat](http://derp.northleft.co/wp-content/uploads/gifdrop/2v.gif)
+* [Zen Cat](http://derp.northleft.co/wp-content/uploads/gifdrop/1i.gif)
 * [Baby Goats on Beds are the Best] (http://derp.northleft.co/wp-content/uploads/gifdrop/10.gif)
 * [Otters](http://38.media.tumblr.com/7f098be163aeb030238098f2d1aa1bd4/tumblr_nlux6pHgNE1tlb56zo1_400.gif)
 * [OTTERS](http://minhonoo.tumblr.com/post/95848904029/river-otters-at-the-zoological-botanical-garden)
@@ -51,6 +51,10 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Avocado](https://33.media.tumblr.com/07b00df16a910359a331e158b79dfa72/tumblr_nvi6nw9PAE1s5wnpzo1_500.gif)
 * [Cat Sayz Take a Break](http://i.imgur.com/eagMT.gif)
 * [Talented Trash Panda](http://imgur.com/LdGASfu)
+* [Sleepy Hamster](http://i.imgur.com/3jCw9AA.gif)
+* [Shark Cat](http://i.imgur.com/vn4mMZJ.gifv)
+* [Emu Arms](http://i.imgur.com/eUGI1oW.gifv)
+* 
 
 ### Misc. Images
 * [Gandalf Pug Wallpaper] (http://imgur.com/ozjI2XF)
