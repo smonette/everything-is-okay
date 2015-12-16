@@ -35,6 +35,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [MAMESHIBA](https://www.youtube.com/watch?v=wjsZbnTNB8c)
 * [SPAM!](https://www.youtube.com/watch?v=4owMJAHqpHY)
 * [Jurassic Park Melodica](https://www.youtube.com/watch?v=-w-58hQ9dLk)
+* [Berries and Cream](https://www.youtube.com/watch?v=hsPFyoEpGVA)
 
 ### Gifs
 * [Pomeranian Puppy Profanity](http://i.imgur.com/OV65Vo5.gif)
