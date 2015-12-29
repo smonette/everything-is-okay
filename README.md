@@ -15,7 +15,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 
 ### Long Videos
 * [Bouncy Ball](https://vimeo.com/14504562)
-* [Herding Cats](https://www.youtube.com/watch?v=vCB7RqGS684&index=34&list=FLi39viOfDpJwXhARIFUkuug)
+* [Herding Cats](https://www.youtube.com/watch?v=vCB7RqGS684)
 * [Stowaway Cat](https://youtu.be/J_8mdH20qTQ)
 * [Pee-wee football team forgets they're playing, dance](https://www.youtube.com/watch?v=o0S3TMWJZt0)
 * [Baby Koala!!](https://www.youtube.com/watch?time_continue=2&v=cU8v4vZbFPc)
