@@ -1,0 +1,7 @@
+{
+    "hostname":"127.0.0.1",
+    "port":"8080",
+    "archive_filename":"../everything-is-okay.json",
+    "update_interval":30000,
+    "slack_response":true
+}

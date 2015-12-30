@@ -20,7 +20,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Pee-wee football team forgets they're playing, dance](https://www.youtube.com/watch?v=o0S3TMWJZt0)
 * [Baby Koala!!](https://www.youtube.com/watch?time_continue=2&v=cU8v4vZbFPc)
 
-### Perpetual Videos
+### Livestreams
 * [Otter Cam](http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/sea-otter-cam)
 * [Alaska Bear Cam](http://explore.org/live-cams/player/river-watch-brown-bear-salmon-cams)
 
@@ -30,8 +30,8 @@ Here's a selection of videos to help improve your terrible, no good day.
 
 
 ### WTF
-* [Giga Pudding](https://www.youtube.com/watch?v=o-N_mW3WakU&index=32&list=FLi39viOfDpJwXhARIFUkuug)
-* [He Man Say Hey](https://www.youtube.com/watch?v=iWw5YdW57Es&index=47&list=FLi39viOfDpJwXhARIFUkuug)
+* [Giga Pudding](https://youtu.be/9sEI1AUFJKw)
+* [He Man Say Hey](https://youtu.be/iWw5YdW57Es)
 * [MAMESHIBA](https://www.youtube.com/watch?v=wjsZbnTNB8c)
 * [SPAM!](https://www.youtube.com/watch?v=4owMJAHqpHY)
 * [Jurassic Park Melodica](https://www.youtube.com/watch?v=-w-58hQ9dLk)
@@ -55,7 +55,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Sleepy Hamster](http://i.imgur.com/3jCw9AA.gif)
 * [Shark Cat](http://i.imgur.com/vn4mMZJ.gifv)
 * [Emu Arms](http://i.imgur.com/eUGI1oW.gifv)
-* 
+*
 
 ### Misc. Images
 * [Gandalf Pug Wallpaper] (http://imgur.com/ozjI2XF)
