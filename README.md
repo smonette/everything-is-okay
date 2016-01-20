@@ -27,6 +27,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 ### Short Videos
 * [Ham Cat](https://www.youtube.com/watch?v=79qqhX8Vxc0)
 * [Otters are AMAZING!](http://www.businessinsider.com/otters-are-one-of-the-smartest-species-on-the-planet-2015-10)
+* [Washing Machine Bouce!](https://www.youtube.com/watch?v=779fMc8ubOo)
 
 
 ### WTF
@@ -38,6 +39,7 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Berries and Cream](https://www.youtube.com/watch?v=hsPFyoEpGVA)
 
 ### Gifs
+* [Bird Commute](http://i.imgur.com/3FEIILT.gifv)
 * [Pomeranian Puppy Profanity](http://i.imgur.com/OV65Vo5.gif)
 * [Shiba Puppies Ruining Cabbage](http://s3-ec.buzzfed.com/static/2014-06/19/17/enhanced/webdr02/anigif_enhanced-22021-1403212682-15.gif)
 * [NEPTR Why Creator?](http://media.tumblr.com/tumblr_m8h44tYXlG1qba9rro1_500.gif)
@@ -55,8 +57,13 @@ Here's a selection of videos to help improve your terrible, no good day.
 * [Sleepy Hamster](http://i.imgur.com/3jCw9AA.gif)
 * [Shark Cat](http://i.imgur.com/vn4mMZJ.gifv)
 * [Emu Arms](http://i.imgur.com/eUGI1oW.gifv)
-*
+* [AWWW DERP](https://gfycat.com/PowerlessCooperativeHornedtoad)
+
+### Instagram Accounts
+* [Hitch the frenchie](https://www.instagram.com/alittlehitch/)
+* [Pumpkin the Raccoon](https://www.instagram.com/pumpkintheraccoon/)
 
 ### Misc. Images
 * [Gandalf Pug Wallpaper] (http://imgur.com/ozjI2XF)
 * [Alternate Animal Names](http://imgur.com/gallery/xgAdk)
+* [Motivational Animals](http://saintcaffeinated.tumblr.com/post/107292292408/i-keep-my-spirits-up-with-a-different-motivational)
