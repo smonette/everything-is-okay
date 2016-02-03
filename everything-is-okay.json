@@ -1,213 +1,206 @@
 {
-    "Vines":
-    [
+    "Vines": [
         {
-            "title":"Birdyonce",
-            "url":"https://vine.co/v/eiPzmHEEUHm"
+            "title": "Birdyonce",
+            "url": "https://vine.co/v/eiPzmHEEUHm"
         },
         {
-            "title":"You Got This, Travis",
-            "url":"https://vine.co/v/O6gHdtYPqij"
+            "title": "You Got This, Travis",
+            "url": "https://vine.co/v/O6gHdtYPqij"
         },
         {
-            "title":"Yass! Cat",
-            "url":"https://vine.co/v/OzQaIO0IOiu"
+            "title": "Yass! Cat",
+            "url": "https://vine.co/v/OzQaIO0IOiu"
         },
         {
-            "title":"Cat cleans dog",
-            "url":"https://vine.co/v/OBVAqnMDe7I"
+            "title": "Cat cleans dog",
+            "url": "https://vine.co/v/OBVAqnMDe7I"
         },
         {
-            "title":"(indescribable)",
-            "url":"https://www.tumblr.com/video/strawberry-taffy/122569405641/500/"
+            "title": "(indescribable)",
+            "url": "https://www.tumblr.com/video/strawberry-taffy/122569405641/500/"
         },
         {
-            "title":"Cat ramping",
-            "url":"https://vine.co/v/O2bqlMVvp0u"
+            "title": "Cat ramping",
+            "url": "https://vine.co/v/O2bqlMVvp0u"
         },
         {
-            "title":"lettuce lettuce lettuce",
-            "url":"https://www.youtube.com/watch?v=VP5kC9fJAUE"
+            "title": "lettuce lettuce lettuce",
+            "url": "https://www.youtube.com/watch?v=VP5kC9fJAUE"
         }
     ],
-    "Long Videos":
-    [
+    "Long Videos": [
         {
-            "title":"Bouncy Ball",
+            "title": "Bouncy Ball",
             "url": "https://vimeo.com/14504562"
         },
         {
-            "title":"Herding Cats",
+            "title": "Herding Cats",
             "url": "https://www.youtube.com/watch?v=vCB7RqGS684"
         },
         {
-            "title":"Stowaway Cat",
+            "title": "Stowaway Cat",
             "url": "https://youtu.be/J_8mdH20qTQ"
         },
         {
-            "title":"Pee-wee football team forgets they're playing, dance",
+            "title": "Pee-wee football team forgets they're playing, dance",
             "url": "https://www.youtube.com/watch?v=o0S3TMWJZt0"
         },
         {
-            "title":"Baby Koala!!",
+            "title": "Baby Koala!!",
             "url": "https://www.youtube.com/watch?time_continue=2&v=cU8v4vZbFPc"
         }
     ],
-    "Livestreams":
-    [
+    "Livestreams": [
         {
-            "title":"Otter Cam",
+            "title": "Otter Cam",
             "url": "http://www.montereybayaquarium.org/animals-and-experiences/live-web-cams/sea-otter-cam"
         },
         {
-            "title":"Alaska Bear Cam",
+            "title": "Alaska Bear Cam",
             "url": "http://explore.org/live-cams/player/river-watch-brown-bear-salmon-cams"
         }
     ],
-    "Short Videos":
-    [
+    "Short Videos": [
         {
-            "title":"Ham Cat",
+            "title": "Ham Cat",
             "url": "https://www.youtube.com/watch?v=79qqhX8Vxc0"
         },
         {
-            "title":"Otters are AMAZING!",
+            "title": "Otters are AMAZING!",
             "url": "http://www.businessinsider.com/otters-are-one-of-the-smartest-species-on-the-planet-2015-10"
         },
         {
-            "title":"Washing Machine Bounce!",
-            "url":"https://www.youtube.com/watch?v=779fMc8ubOo"
+            "title": "Washing Machine Bounce!",
+            "url": "https://www.youtube.com/watch?v=779fMc8ubOo"
         }
     ],
-    "WTF":
-    [
+    "WTF": [
         {
-            "title":"Giga Pudding",
+            "title": "Giga Pudding",
             "url": "https://youtu.be/9sEI1AUFJKw"
         },
         {
-            "title":"He Man Say Hey",
+            "title": "He Man Say Hey",
             "url": "https://youtu.be/iWw5YdW57Es"
         },
         {
-            "title":"MAMESHIBA",
+            "title": "MAMESHIBA",
             "url": "https://www.youtube.com/watch?v=wjsZbnTNB8c"
         },
         {
-            "title":"SPAM!",
+            "title": "SPAM!",
             "url": "https://www.youtube.com/watch?v=4owMJAHqpHY"
         },
         {
-            "title":"Jurassic Park Melodica",
+            "title": "Jurassic Park Melodica",
             "url": "https://www.youtube.com/watch?v=-w-58hQ9dLk"
         },
         {
-            "title":"Berries and Cream",
+            "title": "Berries and Cream",
             "url": "https://www.youtube.com/watch?v=hsPFyoEpGVA"
         }
     ],
-    "Gifs":
-    [
+    "Gifs": [
         {
-            "title":"Bird Commute",
+            "title": "Bird Commute",
             "url": "http://i.imgur.com/3FEIILT.gifv"
         },
         {
-            "title":"Shiba Puppies Ruining Cabbage",
+            "title": "Shiba Puppies Ruining Cabbage",
             "url": "http://s3-ec.buzzfed.com/static/2014-06/19/17/enhanced/webdr02/anigif_enhanced-22021-1403212682-15.gif"
         },
         {
-            "title":"Pomeranian Puppy Profanity",
+            "title": "Pomeranian Puppy Profanity",
             "url": "http://i.imgur.com/OV65Vo5.gif"
         },
         {
-            "title":"NEPTR Why Creator?",
+            "title": "NEPTR Why Creator?",
             "url": "http://media.tumblr.com/tumblr_m8h44tYXlG1qba9rro1_500.gif"
         },
         {
-            "title":"Space Cat",
+            "title": "Space Cat",
             "url": "http://2.bp.blogspot.com/-Aa-MvSjZ-TM/UgYsX-k3LtI/AAAAAAAABOY/Yu_FGdmTbpo/s1600/cat-meme-space-cat-wow-cat-amazing-stars-galaxy-cat_thumb.gif"
         },
         {
-            "title":"Bone Tongue",
+            "title": "Bone Tongue",
             "url": "http://derp.northleft.co/wp-content/uploads/gifdrop/43.gif"
         },
         {
-            "title":"I Can't Even Cat",
+            "title": "I Can't Even Cat",
             "url": "http://derp.northleft.co/wp-content/uploads/gifdrop/2v.gif"
         },
         {
-            "title":"Zen Cat",
+            "title": "Zen Cat",
             "url": "http://derp.northleft.co/wp-content/uploads/gifdrop/1i.gif"
         },
         {
-            "title":"Baby Goats on Beds are the Best",
+            "title": "Baby Goats on Beds are the Best",
             "url": "http://derp.northleft.co/wp-content/uploads/gifdrop/10.gif"
-         },
+        },
         {
-            "title":"Otters",
+            "title": "Otters",
             "url": "http://38.media.tumblr.com/7f098be163aeb030238098f2d1aa1bd4/tumblr_nlux6pHgNE1tlb56zo1_400.gif"
         },
         {
-            "title":"OTTERS",
+            "title": "OTTERS",
             "url": "http://minhonoo.tumblr.com/post/95848904029/river-otters-at-the-zoological-botanical-garden"
         },
         {
-            "title":"Sleepy Baby Otter",
+            "title": "Sleepy Baby Otter",
             "url": "http://imgur.com/gallery/7XrkOhf"
         },
         {
-            "title":"Avocado",
+            "title": "Avocado",
             "url": "https://33.media.tumblr.com/07b00df16a910359a331e158b79dfa72/tumblr_nvi6nw9PAE1s5wnpzo1_500.gif"
         },
         {
-            "title":"Cat Sayz Take a Break",
+            "title": "Cat Sayz Take a Break",
             "url": "http://i.imgur.com/eagMT.gif"
         },
         {
-            "title":"Talented Trash Panda",
+            "title": "Talented Trash Panda",
             "url": "http://imgur.com/LdGASfu"
         },
         {
-            "title":"Sleepy Hamster",
+            "title": "Sleepy Hamster",
             "url": "http://i.imgur.com/3jCw9AA.gif"
         },
         {
-            "title":"Shark Cat",
+            "title": "Shark Cat",
             "url": "http://i.imgur.com/vn4mMZJ.gifv"
         },
         {
-            "title":"Emu Arms",
+            "title": "Emu Arms",
             "url": "http://i.imgur.com/eUGI1oW.gifv"
         },
         {
-            "title":"AWWW DERP",
-            "url":"https://gfycat.com/PowerlessCooperativeHornedtoad"
+            "title": "AWWW DERP",
+            "url": "https://gfycat.com/PowerlessCooperativeHornedtoad"
         }
     ],
-    "Instagram Accounts":[
+    "Instagram Accounts": [
         {
-            "title":"Hitch the Frenchie",
-            "url":"https://www.instagram.com/alittlehitch/"
+            "title": "Hitch the Frenchie",
+            "url": "https://www.instagram.com/alittlehitch/"
         },
         {
-            "title":"Pumpkin the Raccoon",
-            "url":"https://www.instagram.com/pumpkintheraccoon/"
+            "title": "Pumpkin the Raccoon",
+            "url": "https://www.instagram.com/pumpkintheraccoon/"
         }
     ],
-    "Misc. Images":
-    [
+    "Misc. Images": [
         {
-            "title":"Gandalf Pug Wallpaper",
+            "title": "Gandalf Pug Wallpaper",
             "url": "http://imgur.com/ozjI2XF"
         },
         {
-            "title":"Alternate Animal Names",
+            "title": "Alternate Animal Names",
             "url": "http://imgur.com/gallery/xgAdk"
         },
         {
-            "title":"Motivational Animals",
-            "url":"http://saintcaffeinated.tumblr.com/post/107292292408/i-keep-my-spirits-up-with-a-different-motivational"
+            "title": "Motivational Animals",
+            "url": "http://saintcaffeinated.tumblr.com/post/107292292408/i-keep-my-spirits-up-with-a-different-motivational"
         }
     ]
 }
