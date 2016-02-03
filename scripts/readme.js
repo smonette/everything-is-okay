@@ -7,6 +7,8 @@ var content = `
 I promise.
 
 Here's a selection of videos to help improve your terrible, no good day.
+
+> Looking to contribute to this repo? Check out \`CONTRIBUTING.md\` for instructions!
 `;
 
 var keys = Object.keys(data);

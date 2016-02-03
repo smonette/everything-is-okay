@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node_modules/forever/bin/forever start stupid-app/app.js",
     "stop": "node_modules/forever/bin/forever stop stupid-app/app.js",
-    "readme": "node scripts/readme.js"
+    "readme": "node scripts/readme.js",
+    "json": "node scripts/json.js"
   }
 }
