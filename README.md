@@ -1,9 +1,10 @@
 
 # Everything is okay!
 
-I promise.
+I promise. Here's a selection of videos, gifs, and streams to help improve your terrible, no good day.
 
-Here's a selection of videos to help improve your terrible, no good day.
+> Looking to contribute to this repo? Check out `CONTRIBUTING.md` for instructions!
+
 
 ### Vines
 * [Birdyonce](https://vine.co/v/eiPzmHEEUHm)
