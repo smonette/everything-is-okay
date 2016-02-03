@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "forever": "^0.15.1"
+  },
+  "scripts": {
+    "start": "node_modules/forever/bin/forever start stupid-app/app.js",
+    "stop": "node_modules/forever/bin/forever stop stupid-app/app.js",
+    "readme": "node scripts/readme.js"
+  }
+}

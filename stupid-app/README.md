@@ -2,12 +2,12 @@
 
 All this does is it pseudo-randomly selects an item from `everything-is-okay.json` and spits out a link.
 
-# Running it
+## Running it
 
 * Clone the repo
-* `cd stupid-app`
-* `nodejs app.js`
-* ???
-* profit or something.
+* `npm install`
+* `npm start`
 
-I suppose you could throw it behind `nginx` or whatever. What more do you want?
+## Other things
+
+* I threw this together
