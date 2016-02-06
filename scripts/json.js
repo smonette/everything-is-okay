@@ -9,7 +9,7 @@ var obj = {};
 
 rl.on('line', function (line) {
     var category_match = line.match(/### (.+)/);
-    var item_match = line.match(/\* \[(.+)\]\((.+)\)/);
+    var item_match = line.match(/\* \[(.+)\] *\((.+)\)/);
 
     if(category_match) {
         current_category = category_match[1];
