@@ -3,9 +3,6 @@
 
 I promise. Here's a selection of videos, gifs, and streams to help improve your terrible, no good day.
 
-> Looking to contribute to this repo? Check out `CONTRIBUTING.md` for instructions!
-
-
 ### Vines
 * [Birdyonce](https://vine.co/v/eiPzmHEEUHm)
 * [You Got This, Travis](https://vine.co/v/O6gHdtYPqij)
@@ -68,3 +65,8 @@ I promise. Here's a selection of videos, gifs, and streams to help improve your 
 * [Gandalf Pug Wallpaper](http://imgur.com/ozjI2XF)
 * [Alternate Animal Names](http://imgur.com/gallery/xgAdk)
 * [Motivational Animals](http://saintcaffeinated.tumblr.com/post/107292292408/i-keep-my-spirits-up-with-a-different-motivational)
+
+
+
+
+> Looking to contribute to this repo for the Slackbot? Check out `CONTRIBUTING.md` for instructions!
