@@ -35,6 +35,7 @@ I promise. Here's a selection of videos, gifs, and streams to help improve your 
 * [SPAM!](https://www.youtube.com/watch?v=4owMJAHqpHY)
 * [Jurassic Park Melodica](https://www.youtube.com/watch?v=-w-58hQ9dLk)
 * [Berries and Cream](https://www.youtube.com/watch?v=hsPFyoEpGVA)
+* [Cult of the Party Parrot](http://cultofthepartyparrot.com/)
 
 ### Gifs
 * [Bird Commute](http://i.imgur.com/3FEIILT.gifv)
