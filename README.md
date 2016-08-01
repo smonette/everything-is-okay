@@ -62,6 +62,7 @@ I promise. Here's a selection of videos, gifs, and streams to help improve your 
 ### Instagram Accounts
 * [Hitch the Frenchie](https://www.instagram.com/alittlehitch/)
 * [Pumpkin the Raccoon](https://www.instagram.com/pumpkintheraccoon/)
+* [Waffles the Corgi](https://www.instagram.com/wafflescorgi/)
 
 ### Misc. Images
 * [Gandalf Pug Wallpaper](http://imgur.com/ozjI2XF)
