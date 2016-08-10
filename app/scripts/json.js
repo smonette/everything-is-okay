@@ -1,7 +1,7 @@
 var readline = require('readline');
 var fs = require('fs');
 var rl = readline.createInterface({
-  input: fs.createReadStream('README.md')
+  input: fs.createReadStream('../README.md')
 });
 
 var current_category = "";
