@@ -72,4 +72,4 @@ I promise. Here's a selection of videos, gifs, and streams to help improve your 
 
 
 
-> Looking to make a Slackbot integration from this repo? Check out `app/CONTRIBUTING.md` for instructions and a some starter code! Thanks [bundan](https://github.com/bundan)!
+> Looking to make a Slackbot integration from this repo? Check out `app/CONTRIBUTING.md` for instructions and a some starter code! Thanks [bundan](https://github.com/bundan)! Thank you to [cglopez](https://github.com/cglopez) for app fixes, and clarifying the documentation! <3 <3 <3
