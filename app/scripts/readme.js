@@ -1,6 +1,6 @@
 var fs = require("fs");
 var data = require("../everything-is-okay.json");
-var readme = "README.md";
+var readme = "../README.md";
 var content = `
 # Everything is okay!
 
