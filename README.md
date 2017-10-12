@@ -59,6 +59,9 @@ I promise. Here's a selection of videos, gifs, and streams to help improve your 
 * [Shark Cat](http://i.imgur.com/vn4mMZJ.gifv)
 * [Emu Arms](http://i.imgur.com/eUGI1oW.gifv)
 * [AWWW DERP](https://gfycat.com/PowerlessCooperativeHornedtoad)
+* [Fluffy Kitty Face Scritches](https://giphy.com/gifs/cat-WYEWpk4lRPDq0)
+* [Seductive Cat](https://giphy.com/gifs/afvpets-afv-xTiTnGmnf7CxpduWxq)
+* [Seductive Cow](https://giphy.com/gifs/afvpets-afv-3oEduITwWivj3xH5OU)
 
 ### Instagram Accounts
 * [Hitch the Frenchie](https://www.instagram.com/alittlehitch/)
